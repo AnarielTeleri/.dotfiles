@@ -1,0 +1,11 @@
+brew "choose-rust"
+brew "fd"
+brew "ripgrep"
+brew "sd"
+brew "shellcheck"
+brew "shfmt"
+
+cask "1password"
+cask "bettertouchtool"
+cask "discord"
+cask "visual-studio-code"
